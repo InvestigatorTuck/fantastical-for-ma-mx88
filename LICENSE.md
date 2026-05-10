@@ -1,4 +1,4 @@
-
+Enhance Fantastical for macOS with elite Integration for Fantastical for macOS - database templates and note encryption, the #1 integration. Includes database templates and note
 
 
 
